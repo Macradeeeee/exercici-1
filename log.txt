@@ -1,0 +1,2 @@
+b0c0a55 (HEAD -> master) Segon commit
+01ccfc3 (origin/master) Primer commit
